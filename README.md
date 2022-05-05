@@ -1,4 +1,4 @@
-# :collision: :bomb: Hello I am Zhanybek, but you can call me Zack
+# :mandarin:Hello I am Zhanybek, but you can call me Zack
 
 I am a general Unity/C# developer, honing skills in C++ and OpenGL and creating games for a career and fun.
 
