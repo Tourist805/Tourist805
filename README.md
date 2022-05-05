@@ -1,4 +1,4 @@
-# :collision: :bomb: Hello I am Zhahybek, but you can call me Zack
+# :collision: :bomb: Hello I am Zhanybek, but you can call me Zack
 
 I am a general Unity/C# developer, honing skills in C++ and OpenGL and creating games for a career and fun.
 
@@ -22,7 +22,7 @@ LinkedIn: https://kz.linkedin.com/in/zdauletov
 ### Unity
 - Dungeon Shooter 3D, FPS shooter uses procedural generation for maze content establishing.
   - Itch.io: https://zhanuchuk.itch.io/dungeon-shooter-3d
-  //- GitHub: https://github.com/Tourist805/COMP3000-MazeGame
+ 
   
 - Space Destruction is an arcade game, where the player's goal is to achieve the higher scores by demolishing a variety type of obstacles.
   Made within 8 hours in the game jam
@@ -33,7 +33,7 @@ LinkedIn: https://kz.linkedin.com/in/zdauletov
   Made within  group of three developers. My role was technical director, responsible for the gameplay and uis creation and management.
   - Itch.io: https://photonicboom.itch.io/destruction-city
   - GitHub: https://github.com/Hambush2/SuperGolf
-  
+ 
 - Astro Angler (Previously known as “Space Fishing Game”) is a retro-styled arcade game.
   The game uses a pixel art aesthetic to convey the fantasy-related concept of fishing in space.
   This game is meant to be casual and relaxing, yet with a challenging twist that will keep the audience engaged while playing. 
