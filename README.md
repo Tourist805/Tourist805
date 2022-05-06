@@ -9,9 +9,6 @@ I am a general Unity/C# developer, honing skills in C++ and OpenGL and creating 
 	<img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="100"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" width="200" height="100"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" width="200" height="100"/>
-	<img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" width="100" height="100"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/480px-.NET_Core_Logo.svg.png" width="100" height="100"/>
-	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100" height="100"/>
 </div>
 
 ## Contacts
