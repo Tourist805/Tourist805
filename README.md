@@ -36,6 +36,10 @@ LinkedIn: https://kz.linkedin.com/in/zdauletov
   This game is meant to be casual and relaxing, yet with a challenging twist that will keep the audience engaged while playing. 
   Made within  group of six developers as a group project module
   - Itch.io: https://zhanuchuk.itch.io/astro-angler
+
+### C++
+- Mirrored reflection
+  - GitHub: https://github.com/Tourist805/Mirrored-Reflection
   
  ## :black_nib: I'm currently Learning / Mastering
 
