@@ -40,12 +40,13 @@ LinkedIn: https://kz.linkedin.com/in/zdauletov
 ### C++
 - Mirrored reflection
   - GitHub: https://github.com/Tourist805/Mirrored-Reflection
+- Multiple Effects in OpenGL.For this project, I have decided to create a couple of scenes implementing different computer graphics techniques.
+  - GitHub: https://github.com/Tourist805/Shadows-Lab
   
  ## :black_nib: I'm currently Learning / Mastering
 
 - C# and Unity
-- Computer Graphics Couse on OpenGL
-- Industry Engagement Course
+- Computer Graphics Couse on OpenGL C++
 
 ## ⚡GitHub Stats
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
