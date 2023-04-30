@@ -22,7 +22,7 @@ will allow me to apply my skills to fascinating projects and further improve my 
 
 # ⚒️ Projects:
 
-- 🎮 Games On Unity [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+- 🎮 Games On Unity
 	- [Destruction City](https://github.com/Hambush2/SuperGolf) is an arcade level based game where the goal is to use a powerful slingshot to destroy the city. The higher the score, the better! Play the game [on](https://photonicboom.itch.io/destruction-city).
 	- [Dungeon Shooter](https://github.com/Tourist805/COMP3000-MazeGame). First-person shooter with unique maps generated with procedural content generation algorithms. Enemies Artificial Intelligence are driven using states' design patterns. Low-poly style, and compelling weapon mechanics.  Play the game [on](https://zhanuchuk.itch.io/dungeon-shooter-3d).
 	- [Space Destruction](https://github.com/Tourist805/GameJam-2022) Destruction City is an arcade-style game for casual PC gamers with a unique twist that leaves
